@@ -1,0 +1,14 @@
+{
+  "name": "version-3",
+  "version": "1.0.0",
+  "description": "You're making the new Galvanize website, and need to include a line chart showing how many students have graduated in the last 3 years. You could code the chart from scratch, but this is a problem that's been solved many times by many people, so why not reuse their work? Find and use a charting library to add a chart to the included site. Here's the data:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.7.1"
+  }
+}
